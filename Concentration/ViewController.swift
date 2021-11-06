@@ -25,7 +25,6 @@ class ViewController: UIViewController {
         } else {
             print("chosen card was not in card buttons")
         }
-        
     }
     
     func updateViewFromModel() {
